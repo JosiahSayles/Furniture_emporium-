@@ -1,0 +1,62 @@
+h1 {
+  color: #28532d;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  font-style: italic;
+  margin: 0px;
+}
+
+h2 {
+  color: #4b9956;
+}
+body {
+  background-color: #f7f4e0;
+}
+
+.content-container {
+  border: 1px;
+  border-style: groove;
+  background-color: #0e0e0e;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin-right: 800px;
+  margin-bottom: 20px;
+}
+
+.Button-styling {
+  background-color: hsl(58, 81%, 94%);
+  padding: 10px 175px;
+  border-radius: 10px;
+  color: #28532d;
+  font-weight: 650;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #3d3d3d;
+  color: white;
+}
+
+p {
+  color: #fff0f0;
+  font-size: 18px;
+  font-family: arial;
+  margin: 5px;
+}
+
+.Product-discounted-pricing {
+  color: #979696;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.New-product-pricing {
+  color: #4b9956;
+  font-size: 40px;
+}
+
+#See-more {
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+  margin-top: 0;
+}
