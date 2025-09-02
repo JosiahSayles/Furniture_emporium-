@@ -1,6 +1,6 @@
 h1 {
   color: #28532d;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: fantasy;
   font-size: 50px;
   font-style: italic;
   margin: 0px;
@@ -24,7 +24,7 @@ body {
 }
 
 .Button-styling {
-  background-color: hsl(58, 81%, 94%);
+  background-color: #fcfcf1;
   padding: 10px 175px;
   border-radius: 10px;
   color: #28532d;
@@ -56,7 +56,8 @@ p {
 
 #See-more {
   font-style: normal;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Arial;
   font-size: 18px;
   margin-top: 0;
+  color: #0e0e0e;
 }
